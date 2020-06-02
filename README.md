@@ -1,15 +1,15 @@
 <h1 align="center">
-    <img src="https://github.com/andrewdourado/gostack-desafio-reactjs-crud/blob/master/src/assets/logo.svg" alt="GoRestaurant" width="300px" style="color:blue">
+    <img src="https://github.com/andrewdourado/gostack-desafio-reactjs-crud/blob/master/src/assets/logo-background.svg" alt="GoRestaurant" width="300px" style="color:blue">
 </h1>
 
 <h3 align="center">Desafio React.js CRUD</h3>
 
 <p align="center">
-  <img src="https://github.com/andrewdourado/gostack-desafio-fundamentos-react-native/blob/master/demo.gif" alt="GoMarketplace gif" />   
+  <img src="https://github.com/andrewdourado/gostack-desafio-reactjs-crud/blob/master/demo.gif" alt="GoRestaurant" />   
 </p>
 
 <p align="center">
-  <a href="https://github.com/andrewdourado/gostack-desafio-fundamentos-react-native/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/andrewdourado/gostack-desafio-fundamentos-react-native?logo=license&style=for-the-badge"></a>
+  <a href="https://github.com/andrewdourado/gostack-desafio-reactjs-crud/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/andrewdourado/gostack-desafio-reactjs-crud?style=for-the-badge"></a>
 </p>
 
 ## Descrição 
@@ -69,4 +69,4 @@ $ yarn start
 Este projeto foi desenvolvido durante o Bootcamp GoStack 11 da <a href="https://rocketseat.com.br/" target="_blank" rel="noopener noreferrer">Rocketseat</a>.
 
 ## Licença
-Esse projeto está sob a licença [MIT](https://github.com/andrewdourado/gostack-desafio-fundamentos-react-native/blob/master/LICENSE) © [André Dourado](https://github.com/andrewdourado)
+Esse projeto está sob a licença [MIT](https://github.com/andrewdourado/gostack-desafio-reactjs-crud/blob/master/LICENSE) © [André Dourado](https://github.com/andrewdourado)
