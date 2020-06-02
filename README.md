@@ -2,7 +2,7 @@
     <img src="https://github.com/andrewdourado/gostack-desafio-reactjs-crud/blob/master/src/assets/logo-background.svg" alt="GoRestaurant" width="300px" style="color:blue">
 </h1>
 
-<h3 align="center">Desafio React.js CRUD</h3>
+<h3 align="center">Desafio 10: React.js CRUD</h3>
 
 <p align="center">
   <img src="https://github.com/andrewdourado/gostack-desafio-reactjs-crud/blob/master/demo.gif" alt="GoRestaurant" />   
